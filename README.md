@@ -1,5 +1,28 @@
 > **⚠️ NOTE: The Order In Which I Have Written Explains How I Read The Codebase.**
 
+## Folder Structure
+
+| Name       | Description    |
+| ---------- | -------------- |
+| apps       | update soon... |
+| assets     | update soon... |
+| auth       | update soon... |
+| components | update soon... |
+| config     | update soon... |
+| context    | update soon... |
+| forms      | update soon... |
+| hooks      | update soon... |
+| layout     | update soon... |
+| locale     | update soon... |
+| modules    | update soon... |
+| pages      | update soon... |
+| redux      | update soon... |
+| request    | update soon... |
+| router     | update soon... |
+| settings   | update soon... |
+| style      | update soon... |
+| utils      | update soon... |
+
 ## App.jsx
 
 ### Code
